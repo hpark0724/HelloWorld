@@ -10,6 +10,7 @@ import android.widget.ImageView
 class MainActivity : AppCompatActivity() {
     private lateinit var ingView: ImageView
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
